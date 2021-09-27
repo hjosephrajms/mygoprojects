@@ -1,0 +1,2 @@
+# mygoprojects
+Go training
